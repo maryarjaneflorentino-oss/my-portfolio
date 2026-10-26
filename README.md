@@ -15,7 +15,7 @@
        <header class="main-header">
   <div class="logo-container">
     <a href="/">
-      <img src="cover.png" alt="SELFIE" class="header-logo">
+      <img src="C:\Users\Dell\Downloads\index.html\cover.png" alt="SELFIE" class="header-logo">
     </a>
   </div>
 </header>
@@ -34,7 +34,7 @@
         <h2>My Project</h2>
        <section id="project-details">
     <p>FIRST PROJECT</p>
-    <img src="main.jpg" alt="Screenshot of the main dashboard" width="1000">
+    <img src="C:\Users\Dell\Downloads\index.html\main.jpg"alt="Screenshot of the main dashboard" width="1000">
 </section>
         <div class="projects-grid">
             <!-- Project Card 1 -->
@@ -44,7 +44,7 @@
                 <p>The Barangay Ermita Service Request and Feedback System is a digital platform designed to streamline and enhance communication between residents and their local barangay (village) authorities. It allows community members to submit service requests, such as reporting issues (e.g., road repairs, waste management, public safety concerns), requesting assistance (e.g., health services, permits), and providing feedback on the services they have received. I was assigned how the visuol or look of the system before coding.</p>
             
     <p>SECOND PROJECT</p>
-    <img src="second.jpg" alt="Screenshot of the main dashboard" width="1000">
+    <img src="C:\Users\Dell\Downloads\index.html\second.jpg" alt="Screenshot of the main dashboard" width="1000">
                 <H4>AUG FIT</H4>
             <p>AUG FIT is an AI-powered virtual try-on built for AUG DEPT. See how every piece looks and fits on your own body before you buy. Upload a photo, pick your size, and preview outfits in seconds, so you can shop with confidence, skip the guesswork, and cut down on returns.</p>
             </div>
